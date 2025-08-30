@@ -1,0 +1,18 @@
+# Ignore memory dump files
+dumps/*.raw
+dumps/*.vmem
+dumps/*.dmp
+dumps/*.lime
+
+# Ignore temporary system files
+*.log
+*.tmp
+*.swp
+*.DS_Store
+Thumbs.db
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
