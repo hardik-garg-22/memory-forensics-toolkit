@@ -1,4 +1,0 @@
-volatility3
-yara-python
-rich
-fpdf
