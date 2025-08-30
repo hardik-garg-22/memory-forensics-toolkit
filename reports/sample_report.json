@@ -1,0 +1,15 @@
+{
+    "windows.pslist": {
+        "error": "[WinError 2] The system cannot find the file specified"
+    },
+    "windows.netscan": {
+        "error": "[WinError 2] The system cannot find the file specified"
+    },
+    "windows.dlllist": {
+        "error": "[WinError 2] The system cannot find the file specified"
+    },
+    "windows.malfind": {
+        "error": "[WinError 2] The system cannot find the file specified"
+    },
+    "yara_matches": []
+}
